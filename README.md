@@ -1,3 +1,6 @@
+# Text Buddy
+Backend Repository: [sahilyadav516/TextBuddy_Backend](https://github.com/sahilyadav516/TextBuddy_Backend)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
